@@ -1,1 +1,1 @@
-git-flowtest
+v2 출시
